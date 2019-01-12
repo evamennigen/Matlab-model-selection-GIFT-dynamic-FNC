@@ -1,4 +1,4 @@
-# Matlab-model-selection-GIFT-dynamic-FNC
+# Matlab model selection for GIFT dynamic FNC
 Two Matlab script to a) perform backward model selection and univariate tests on the selected models and b) to create result summaries.
 These scripts need the GIFT toolbox from http://mialab.mrn.org/software/gift/index.html
 GIFT offers the same steps for static FNC but not for dynamic FNC states.
